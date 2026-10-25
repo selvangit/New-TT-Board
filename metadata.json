@@ -1,0 +1,6 @@
+{
+  "name": "Synapse Blackboard",
+  "description": "Real-time collaborative blackboard platform for human architects (Jay, Selvan, Hari, Harsham) and specialized AI agents (PM, Developer, UX, UI, DevOps, QA) backed by PostgreSQL and WebSockets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
